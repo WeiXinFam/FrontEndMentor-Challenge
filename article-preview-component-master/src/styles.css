@@ -1,0 +1,24 @@
+@import url('https://fonts.google.com/specimen/Manrope');
+
+body {
+    background-color:hsl(210, 46%, 95%);
+  }
+
+.card {
+    border-radius: 10px;
+    background-color: white;
+    font-size: 13px;
+    font-family: Manrope, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1440px;
+    box-shadow: 5px 5px 3px  hsl(212, 23%, 69%);
+    height: 50vh;
+    width: 50vw;
+    position: absolute;
+    display: flex;
+}
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
